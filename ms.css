@@ -1,0 +1,219 @@
+.one {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    margin-top: 15px;
+
+
+}
+
+.surya img {
+    display: flex;
+    height: 60px;
+    width: 150px;
+    margin-left: 40px;
+
+}
+
+.surya {
+    display: flex;
+    justify-content: center;
+}
+
+.surya1 {
+    display: flex;
+    margin-right: 10px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 2px;
+}
+
+.surya2 ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    list-style: none;
+    margin-right: 50px;
+}
+
+.ul {
+    margin-top: 25px;
+}
+
+.surya3 ul {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    list-style: none;
+    border: 1px solid rgb(188, 188, 188);
+    border-left: none;
+    border-right: none;
+    height: 45px;
+}
+
+.surya4 {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.surya4 img {
+    width: 50%;
+}
+
+.contant h1 {
+    font-size: 150 px;
+    text-align: center;
+
+}
+
+.text h1 {
+    font-size: 75px;
+}
+.contant h1{
+    font-size: 150 px;
+    text-align: center;
+}
+.contant{
+    display: flex;  
+}
+.front img{
+    height: 390px;
+}
+.contant img{
+    width: 100%;
+    height: 380px; ;
+
+}
+.text {
+    background-color: #c3b1bc;
+}
+
+.txt {
+    display: flex;
+    gap: 75px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(193, 21, 30);
+    margin-left: 530px;
+    margin-top: 40px;
+    padding: 10px 30px;
+    color: white;
+    font-size: 1.2rem;
+    border: 1px solid rgba(0, 0, 0, 0) !important;
+    margin-left: 150px;
+}
+.main h1{
+    text-align:center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.seller img {
+    display: flex;
+    width: 100%;
+  
+
+}
+
+.crd {
+    display: flex;
+    justify-content: space-around;
+}
+
+.a img {
+    height: 600px;
+    width: 315.2px;
+}
+
+.b img {
+    height: 600px;
+}
+
+.plajo img {
+    height: 551px;
+    width: 300px;
+
+}
+
+.plajo1 img {
+    height: 551px;
+    width: 300px;
+
+}
+
+.plajo2 img {
+    height: 551px;
+    width: 300px;
+
+}
+
+.plajo3 img {
+    height: 551px;
+    width: 300px;
+
+}
+
+.Blazers img {
+    height: 400px;
+    width: 350px;
+}
+
+.rakhi img {
+    height: 400px;
+    width: 350px;
+
+}
+
+.product img {
+    height: 551px;
+    width: 300px;
+
+}
+
+.Footwear {
+    border: 5px solid black;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(255, 270, 241);
+}
+
+.seller h1 {
+    font-size: 150 px;
+    text-align: center;
+
+}
+
+.surya5 {
+    font-size: 150 px;
+    text-align: center;
+
+}
+
+.surya6 h1 {
+    font-size: 150 px;
+    text-align: center;
+
+}
+
+.Blazers h1 {
+    font-size: 150 px;
+    text-align: center;
+}
+
+.rakhi h1 {
+    font-size: 150 px;
+    text-align: center;
+}
+
+.product h1 {
+    font-size: 150 px;
+    text-align: center;
+
+}

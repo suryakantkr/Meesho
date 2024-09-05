@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .navbar{
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 60px;
+    
+ }
+ .logo {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+ }
+ .logo img{
+    /* padding-top: 1px; */
+    padding-left: 120px;
+    /* padding-bottom: 5px; */
+    display: flex;
+    justify-content: center;
+    height: 60%;
+    width: 70%;
+
+
+ }
+ .container ul {
+    /* padding-top: 5%; */
+    margin-left: 450px;
+    display: flex;
+    list-style: none;
+    gap: 30px;
+
+ }
+ .menu{
+    /* margin-top: 3%; */
+    padding-right:10%;
+    display: flex;
+    justify-content: center;
+    height:20px;
+    width:20px;
+}
+.homepage{
+    margin-right: 70px;
+    display: flex;
+    flex-direction: column;
+}
+.land{
+    display: flex;
+    justify-content: center;
+}
+.land img {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+    max-height: 45vh;
+    max-width: 100%;
+}
+
+.heading{
+    display: flex;
+   justify-content: center;
+   margin-top: 40px;
+   font-weight: 40;
+   font-size: 2.75rem;
+   line-height: 1.25;
+   
+}
+.paragragh{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+
+.sign button{
+    display: flex;
+    justify-content: center;
+   background-color: rgb(5, 170, 241);
+   margin-left: 650px;
+   margin-top: 40px;
+   padding: 10px 30px;
+   color: white;
+   text-align: center;
+   font-size: 1.2rem;
+   font: weight 500;
+   line-height: 1.2rem;
+   border-radius: 3px;
+   text-decoration: none;
+   border: 1px solid rgba(0, 0, 0, 0) !important;
+   white-space: nowrap; 
+   width: 150px;
+    /* background-color: rgba(0, 0, 0, 0); */
+    /* border-radius: 3px;
+    border: 1px solid #bbb; */
+    /* cursor: pointer;
+    box-sizing: border-box; */
+}
