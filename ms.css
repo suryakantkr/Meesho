@@ -70,21 +70,27 @@
 .text h1 {
     font-size: 75px;
 }
-.contant h1{
+
+.contant h1 {
     font-size: 150 px;
     text-align: center;
 }
-.contant{
-    display: flex;  
+
+.contant {
+    display: flex;
 }
-.front img{
+
+.front img {
     height: 390px;
 }
-.contant img{
+
+.contant img {
     width: 100%;
-    height: 380px; ;
+    height: 380px;
+    ;
 
 }
+
 .text {
     background-color: #c3b1bc;
 }
@@ -106,15 +112,17 @@ button {
     border: 1px solid rgba(0, 0, 0, 0) !important;
     margin-left: 150px;
 }
-.main h1{
-    text-align:center;
+
+.main h1 {
+    text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
 .seller img {
     display: flex;
     width: 100%;
-  
+
 
 }
 
@@ -216,4 +224,102 @@ button {
     font-size: 150 px;
     text-align: center;
 
+}
+
+@media (max-width: 500px) {
+
+    .one {
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .surya img {
+        width: 120px;
+        height: auto;
+        margin-left: 0;
+    }
+
+    .surya1 {
+        width: 90%;
+        margin: 10px auto;
+    }
+
+    .surya2 ul {
+        flex-direction: column;
+        gap: 15px;
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .surya3 ul {
+        flex-wrap: wrap;
+        height: auto;
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .surya4 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .surya4 img {
+        width: 100%;
+    }
+
+    .contant {
+        flex-direction: column;
+    }
+
+    .text h1 {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .txt {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    button {
+        margin: 20px auto;
+        display: block;
+    }
+
+    .crd {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .a img,
+    .b img,
+    .plajo img,
+    .plajo1 img,
+    .plajo2 img,
+    .plajo3 img,
+    .Blazers img,
+    .rakhi img,
+    .product img {
+        width: 90%;
+        height: auto;
+    }
+
+    .Footwear {
+        flex-direction: column;
+        gap: 20px;
+        padding: 10px;
+    }
+
+    .contant h1,
+    .seller h1,
+    .surya5,
+    .surya6 h1,
+    .Blazers h1,
+    .rakhi h1,
+    .product h1 {
+        font-size: 32px;
+    }
 }
